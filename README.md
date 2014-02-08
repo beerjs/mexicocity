@@ -11,9 +11,9 @@ Javascript y hablar del mejor lenguaje de hoy en dia: Cerveza.
 
 ## ¿Quieres unirte a la comunidad?
 
-Dale click al botón ![watch](http://beerjs.github.io/sf/assets/watch.png) de
-este repo (y al de estrella también, si gustas) para que te notifiquemos de las
-siguientes fechas y lugares donde serán las reuniones.
+Dale click al botón ![watch](./assets/watch.png) de este repo (y al de estrella
+también, si gustas) para que te notifiquemos de las siguientes fechas y lugares
+donde serán las reuniones.
 
 
 ## ¿Quieres ayudar?
